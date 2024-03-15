@@ -145,6 +145,5 @@ sns.pairplot(dt)
 ```
 
 ![image](https://github.com/23006823/EXNO2DS/assets/138971409/eb83a5af-b99a-41fd-9c84-e0c828434964)
-```
 # RESULT
 The code successfully excuted
